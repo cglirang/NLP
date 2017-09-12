@@ -71,6 +71,7 @@ public class SearchByLucene {
 			System.out.println("create index error!");
 		} finally {
 			try {
+				assert iwriter != null;
 				iwriter.close();
 			} catch (IOException e1) {
 				e1.printStackTrace();
@@ -153,6 +154,7 @@ public class SearchByLucene {
 			System.out.println("parse error!");
 		} finally {
 			try {
+				assert ireader != null;
 				ireader.close();
 			} catch (IOException e) {
 				System.out.println("stream close error!");

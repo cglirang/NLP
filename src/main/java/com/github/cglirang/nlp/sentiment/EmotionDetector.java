@@ -91,8 +91,9 @@ public class EmotionDetector {
 			for (CoreMap sentence : sentences) {
 				score += this.getSentimentScore(sentence);
 			}
+			score = score / sentences.size();
+
 		}
-		score = score / sentences.size();
 		System.out.println("final score: " + score);
 
 		return aboveThreshold(score);
@@ -116,8 +117,9 @@ public class EmotionDetector {
 			for (CoreMap sentence : sentences) {
 				score += this.getSentimentScore(sentence);
 			}
+			score = score / sentences.size();
+
 		}
-		score = score / sentences.size();
 		System.out.println("final score: " + score);
 
 		return score;
