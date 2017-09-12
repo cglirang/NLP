@@ -1,0 +1,2362 @@
+Insert and remove SIM and SD cards	Insert and remove SIM and SD cards
+Manage dual SIMs	Manage dual SIMs
+Charge phone	Charge phone
+Transfer stuff from your old phone	Transfer stuff from your old phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Change font size in apps	Change font size in apps
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Terms you need to know	Terms you need to know
+Learn gestures	Learn gestures
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use onscreen keyboard	Use onscreen keyboard
+Turn off keyboard vibrations	Turn off keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Share your phone	Share your phone
+Add, modify, remove users	Add, modify, remove users
+Add or delete guest	Add or delete guest
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Choose color mode	Choose color mode
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Set up Daydream	Set up Daydream
+Change screen lock	Change screen lock
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Reach for your phone to see notifications	Reach for your phone to see notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+About your apps	About your apps
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Prevent malware attacks	Prevent malware attacks
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Scan codes to copy or search for information	Scan codes to copy or search for information
+Browse web sites	Browse web sites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save photos or video from messages	Save photos or video from messages
+Limit messages in conversation	Limit messages in conversation
+Turn off group messaging	Turn off group messaging
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View and manage email attachments	View and manage email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+Go hands-free and automated with Moto	Go hands-free and automated with Moto
+Use voice commands and search	Use voice commands and search
+Stop phone from speaking	Stop phone from speaking
+Use phone hands-free	Use phone hands-free
+Control Moto Voice notifications	Control Moto Voice notifications
+Change privacy permissions	Change privacy permissions
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+During a call	During a call
+Block calls or contacts	Block calls or contacts
+Turn on call waiting	Turn on call waiting
+Manage dual SIMs	Manage dual SIMs
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls or contacts	Block calls or contacts
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Twist phone to open camera	Twist phone to open camera
+Take and share photos	Take and share photos
+Take and share screenshots	Take and share screenshots
+Record and share videos	Record and share videos
+Use camera timer	Use camera timer
+Take panoramic photos	Take panoramic photos
+Adjust photo size	Adjust photo size
+Take better pictures at night	Take better pictures at night
+Use HDR in high-contrast lighting	Use HDR in high-contrast lighting
+Use location tags	Use location tags
+Find photos and videos	Find photos and videos
+Organize photos and videos	Organize photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+View in filmstrip mode	View in filmstrip mode
+Upload photos and videos	Upload photos and videos
+Delete photos or videos	Delete photos or videos
+Edit photos	Edit photos
+Edit videos	Edit videos
+Always get the best shot	Always get the best shot
+Create highlight reels	Create highlight reels
+Use photo as wallpaper or contact photo	Use photo as wallpaper or contact photo
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Set network preference to save battery	Set network preference to save battery
+Show battery percentage in status bar	Show battery percentage in status bar
+Analyze battery use	Analyze battery use
+About security	About security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Unlock with "OK, Google"	Unlock with "OK, Google"
+Encrypt your phone	Encrypt your phone
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Store photos and videos on SD card	Store photos and videos on SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Cast your screen to HDTV with Chromecast	Cast your screen to HDTV with Chromecast
+Share or receive with NFC	Share or receive with NFC
+Use location services and GPS	Use location services and GPS
+Use location tags	Use location tags
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+What's new in Android Marshmallow?	What's new in Android Marshmallow?
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Calling problems	Calling problems
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Contact Motorola Support	Contact Motorola Support
+Insert and remove SIM and SD cards	Insert and remove SIM and SD cards
+Manage dual SIMs	Manage dual SIMs
+Charge phone	Charge phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Set up emergency information	Set up emergency information
+Use multiple languages	Use multiple languages
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Turn on captions	Turn on captions
+Use hearing aids	Use hearing aids
+Hardware diagram	Hardware diagram
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Terms you need to know	Terms you need to know
+Learn gestures	Learn gestures
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use flashlight	Use flashlight
+Use onscreen keyboard	Use onscreen keyboard
+Adjust keyboard vibrations	Adjust keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Share your phone	Share your phone
+Add, modify, remove users	Add, modify, remove users
+Add or delete guest	Add or delete guest
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Use the Time and Weather widget	Use the Time and Weather widget
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Change font and display size	Change font and display size
+Use a screen saver	Use a screen saver
+Change screen lock	Change screen lock
+Change wallpaper	Change wallpaper
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+About your apps	About your apps
+Use two apps at once	Use two apps at once
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Scan QR codes and barcodes	Scan QR codes and barcodes
+Browse websites	Browse websites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save attachments	Save attachments
+Turn off group messaging	Turn off group messaging
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View email attachments	View email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+Stop phone from speaking	Stop phone from speaking
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+During a call	During a call
+Make video calls	Make video calls
+Make calls over Wi-Fi	Make calls over Wi-Fi
+Block calls and SMS	Block calls and SMS
+Turn on call waiting	Turn on call waiting
+Manage dual SIMs	Manage dual SIMs
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls and SMS	Block calls and SMS
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Twist phone to open camera	Twist phone to open camera
+Take photos	Take photos
+Take screenshots	Take screenshots
+Adjust camera settings	Adjust camera settings
+Record videos	Record videos
+Find photos and videos	Find photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+Upload photos and videos	Upload photos and videos
+Always get the best shot	Always get the best shot
+Delete or edit photos and videos	Delete or edit photos and videos
+Listen to radio	Listen to radio
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Set network preference to save battery	Set network preference to save battery
+Analyze battery use	Analyze battery use
+About security	About security
+Use fingerprint security	Use fingerprint security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Unlock with "OK, Google"	Unlock with "OK, Google"
+Encrypt your phone	Encrypt your phone
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+Prevent viruses	Prevent viruses
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Project your screen to TV	Project your screen to TV
+Use location services and GPS	Use location services and GPS
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+What's new in Android Nougat?	What's new in Android Nougat?
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Phone feels warm or hot	Phone feels warm or hot
+Can't make/receive calls	Can't make/receive calls
+Problems during calls	Problems during calls
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Camera problems	Camera problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Contact Motorola Support	Contact Motorola Support
+Insert and remove SIM and SD cards	Insert and remove SIM and SD cards
+Manage dual SIMs	Manage dual SIMs
+Charge phone	Charge phone
+Transfer stuff from your old phone	Transfer stuff from your old phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Turn on captions	Turn on captions
+Use hearing aids	Use hearing aids
+Hardware diagram	Hardware diagram
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Terms you need to know	Terms you need to know
+Learn gestures	Learn gestures
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use flashlight	Use flashlight
+Use onscreen keyboard	Use onscreen keyboard
+Adjust keyboard vibrations	Adjust keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Use the Time and Weather widget	Use the Time and Weather widget
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Choose color mode	Choose color mode
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Use a screen saver	Use a screen saver
+Change screen lock	Change screen lock
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+About your apps	About your apps
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Scan QR codes and barcodes	Scan QR codes and barcodes
+Browse websites	Browse websites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save attachments	Save attachments
+Turn off group messaging	Turn off group messaging
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View email attachments	View email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+Stop phone from speaking	Stop phone from speaking
+Shrink screen for one-handed use	Shrink screen for one-handed use
+Use phone hands-free	Use phone hands-free
+Control Moto Voice notifications	Control Moto Voice notifications
+Change privacy permissions	Change privacy permissions
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+During a call	During a call
+Block calls or contacts	Block calls or contacts
+Turn on call waiting	Turn on call waiting
+Manage dual SIMs	Manage dual SIMs
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls or contacts	Block calls or contacts
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Take photos	Take photos
+Take screenshots	Take screenshots
+Adjust camera settings	Adjust camera settings
+Record videos	Record videos
+Find photos and videos	Find photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+Upload photos and videos	Upload photos and videos
+Delete or edit photos and videos	Delete or edit photos and videos
+Listen to radio	Listen to radio
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Set network preference to save battery	Set network preference to save battery
+Show battery percentage in status bar	Show battery percentage in status bar
+Analyze battery use	Analyze battery use
+About security	About security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Unlock with "OK, Google"	Unlock with "OK, Google"
+Encrypt your phone	Encrypt your phone
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+Prevent viruses	Prevent viruses
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Project your screen to TV	Project your screen to TV
+Use location services and GPS	Use location services and GPS
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Phone feels warm or hot	Phone feels warm or hot
+Can't make/receive calls	Can't make/receive calls
+Problems during calls	Problems during calls
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Camera problems	Camera problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Contact Motorola Support	Contact Motorola Support
+Insert and remove SIM and SD cards	Insert and remove SIM and SD cards
+Manage dual SIMs	Manage dual SIMs
+Charge phone	Charge phone
+Transfer stuff from your old phone	Transfer stuff from your old phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Change font size in apps	Change font size in apps
+Use hearing aids	Use hearing aids
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Terms you need to know	Terms you need to know
+Learn gestures	Learn gestures
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use onscreen keyboard	Use onscreen keyboard
+Turn off keyboard vibrations	Turn off keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Share your phone	Share your phone
+Add, modify, remove users	Add, modify, remove users
+Add or delete guest	Add or delete guest
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Stay in control with Time and Weather widget	Stay in control with Time and Weather widget
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Set up Daydream	Set up Daydream
+Change screen lock	Change screen lock
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+About your apps	About your apps
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Prevent malware attacks	Prevent malware attacks
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Browse web sites	Browse web sites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save attachments	Save attachments
+Turn off group messaging	Turn off group messaging
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View and manage email attachments	View and manage email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+Stop phone from speaking	Stop phone from speaking
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+Make calls over Wi-Fi	Make calls over Wi-Fi
+During a call	During a call
+Block calls or contacts	Block calls or contacts
+Turn on call waiting	Turn on call waiting
+Manage dual SIMs	Manage dual SIMs
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls or contacts	Block calls or contacts
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Twist phone to open camera	Twist phone to open camera
+Take and share photos	Take and share photos
+Take and share screenshots	Take and share screenshots
+Record and share videos	Record and share videos
+Use camera timer	Use camera timer
+Take panoramic photos	Take panoramic photos
+Adjust photo size	Adjust photo size
+Use HDR in high-contrast lighting	Use HDR in high-contrast lighting
+Use location tags	Use location tags
+Find photos and videos	Find photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+Upload photos and videos	Upload photos and videos
+Delete photos or videos	Delete photos or videos
+Edit photos	Edit photos
+Edit videos	Edit videos
+Use photo as wallpaper or contact photo	Use photo as wallpaper or contact photo
+Listen to FM radio	Listen to FM radio
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Set network preference to save battery	Set network preference to save battery
+Show battery percentage in status bar	Show battery percentage in status bar
+Analyze battery use	Analyze battery use
+About security	About security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Unlock with "OK, Google"	Unlock with "OK, Google"
+Encrypt your phone	Encrypt your phone
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Store photos and videos on SD card	Store photos and videos on SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Cast your screen to HDTV with Chromecast	Cast your screen to HDTV with Chromecast
+Use location services and GPS	Use location services and GPS
+Use location tags	Use location tags
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Calling problems	Calling problems
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Contact Motorola Support	Contact Motorola Support
+Remove and replace back cover	Remove and replace back cover
+Manage dual SIMs	Manage dual SIMs
+Charge phone	Charge phone
+Transfer stuff from your old phone	Transfer stuff from your old phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Turn on captions	Turn on captions
+Use hearing aids	Use hearing aids
+Hardware diagram	Hardware diagram
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Terms you need to know	Terms you need to know
+Learn gestures	Learn gestures
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use flashlight	Use flashlight
+Use onscreen keyboard	Use onscreen keyboard
+Adjust keyboard vibrations	Adjust keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Use a screen saver	Use a screen saver
+Change screen lock	Change screen lock
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+About your apps	About your apps
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Browse websites	Browse websites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save photos or video from messages	Save photos or video from messages
+Limit messages in conversation	Limit messages in conversation
+Turn off group messaging	Turn off group messaging
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View email attachments	View email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+Use voice commands and search	Use voice commands and search
+Stop phone from speaking	Stop phone from speaking
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+During a call	During a call
+Block calls or contacts	Block calls or contacts
+Turn on call waiting	Turn on call waiting
+Manage dual SIMs	Manage dual SIMs
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls or contacts	Block calls or contacts
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Twist phone to open camera	Twist phone to open camera
+Take photos	Take photos
+Take screenshots	Take screenshots
+Adjust camera settings	Adjust camera settings
+Record videos	Record videos
+Find photos and videos	Find photos and videos
+Organize photos and videos	Organize photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+Upload photos and videos	Upload photos and videos
+Delete or edit photos and videos	Delete or edit photos and videos
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Set network preference to save battery	Set network preference to save battery
+Show battery percentage in status bar	Show battery percentage in status bar
+Analyze battery use	Analyze battery use
+About security	About security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Encrypt your phone	Encrypt your phone
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+Prevent viruses	Prevent viruses
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Project your screen to TV	Project your screen to TV
+Use location services and GPS	Use location services and GPS
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+What's new in Android Marshmallow?	What's new in Android Marshmallow?
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Phone feels warm or hot	Phone feels warm or hot
+Can't make/receive calls	Can't make/receive calls
+Problems during calls	Problems during calls
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Camera problems	Camera problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Contact Motorola Support	Contact Motorola Support
+Insert and remove SIM and SD cards	Insert and remove SIM and SD cards
+Charge phone	Charge phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Use multiple languages	Use multiple languages
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Turn on captions	Turn on captions
+Use hearing aids	Use hearing aids
+Hardware diagram	Hardware diagram
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Glossary of terms	Glossary of terms
+Learn gestures	Learn gestures
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use flashlight	Use flashlight
+Use onscreen keyboard	Use onscreen keyboard
+Adjust keyboard vibrations	Adjust keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Use the Command Center widget	Use the Command Center widget
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Choose color mode	Choose color mode
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Change font and display size	Change font and display size
+Use a screen saver	Use a screen saver
+Change screen lock	Change screen lock
+Change wallpaper	Change wallpaper
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Reach for your phone to see notifications	Reach for your phone to see notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+Transform with Moto Mods™	Transform with Moto Mods™
+Headphones and speakers	Headphones and speakers
+About your apps	About your apps
+Use two apps at once	Use two apps at once
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Scan codes and business cards	Scan codes and business cards
+Browse websites	Browse websites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save attachments	Save attachments
+Turn off group messaging	Turn off group messaging
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View email attachments	View email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Set up quick responses	Set up quick responses
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+About the Moto app	About the Moto app
+Use voice commands and search	Use voice commands and search
+Stop phone from speaking	Stop phone from speaking
+Shrink screen for one-handed use	Shrink screen for one-handed use
+Use phone hands-free	Use phone hands-free
+Change Moto Voice privacy permissions	Change Moto Voice privacy permissions
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+During a call	During a call
+Make video calls	Make video calls
+Make calls over Wi-Fi	Make calls over Wi-Fi
+Block calls and SMS	Block calls and SMS
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls and SMS	Block calls and SMS
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Twist phone to open camera	Twist phone to open camera
+Take photos	Take photos
+Take screenshots	Take screenshots
+Adjust camera settings	Adjust camera settings
+Record videos	Record videos
+Find photos and videos	Find photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+Upload photos and videos	Upload photos and videos
+Delete or edit photos and videos	Delete or edit photos and videos
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Analyze battery use	Analyze battery use
+About security	About security
+Use fingerprint security	Use fingerprint security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Unlock with "OK, Google"	Unlock with "OK, Google"
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+Prevent viruses	Prevent viruses
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Project your screen to TV	Project your screen to TV
+Share or receive with NFC	Share or receive with NFC
+Tap & pay with your phone	Tap & pay with your phone
+Use location services and GPS	Use location services and GPS
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+What's new in Android Nougat?	What's new in Android Nougat?
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Phone feels warm or hot	Phone feels warm or hot
+Can't make/receive calls	Can't make/receive calls
+Problems during calls	Problems during calls
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Camera problems	Camera problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Contact Motorola Support	Contact Motorola Support
+Insert and remove SIM and SD cards	Insert and remove SIM and SD cards
+Charge phone	Charge phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Use multiple languages	Use multiple languages
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Turn on captions	Turn on captions
+Use hearing aids	Use hearing aids
+Hardware diagram	Hardware diagram
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Glossary of terms	Glossary of terms
+Learn gestures	Learn gestures
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use flashlight	Use flashlight
+Use onscreen keyboard	Use onscreen keyboard
+Adjust keyboard vibrations	Adjust keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Use the Command Center widget	Use the Command Center widget
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Choose color mode	Choose color mode
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Change font and display size	Change font and display size
+Use a screen saver	Use a screen saver
+Change screen lock	Change screen lock
+Change wallpaper	Change wallpaper
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Reach for your phone to see notifications	Reach for your phone to see notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+Transform with Moto Mods™	Transform with Moto Mods™
+Headphones and speakers	Headphones and speakers
+About your apps	About your apps
+Use two apps at once	Use two apps at once
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Scan codes and business cards	Scan codes and business cards
+Browse websites	Browse websites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save attachments	Save attachments
+Turn off group messaging	Turn off group messaging
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View email attachments	View email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Set up quick responses	Set up quick responses
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+About the Moto app	About the Moto app
+Use voice commands and search	Use voice commands and search
+Stop phone from speaking	Stop phone from speaking
+Shrink screen for one-handed use	Shrink screen for one-handed use
+Use phone hands-free	Use phone hands-free
+Change Moto Voice privacy permissions	Change Moto Voice privacy permissions
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+During a call	During a call
+Make video calls	Make video calls
+Make calls over Wi-Fi	Make calls over Wi-Fi
+Block calls and SMS	Block calls and SMS
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls and SMS	Block calls and SMS
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Twist phone to open camera	Twist phone to open camera
+Take photos	Take photos
+Take screenshots	Take screenshots
+Adjust camera settings	Adjust camera settings
+Record videos	Record videos
+Find photos and videos	Find photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+Upload photos and videos	Upload photos and videos
+Delete or edit photos and videos	Delete or edit photos and videos
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Analyze battery use	Analyze battery use
+About security	About security
+Use fingerprint security	Use fingerprint security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Unlock with "OK, Google"	Unlock with "OK, Google"
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+Prevent viruses	Prevent viruses
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Project your screen to TV	Project your screen to TV
+Share or receive with NFC	Share or receive with NFC
+Tap & pay with your phone	Tap & pay with your phone
+Use location services and GPS	Use location services and GPS
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+What's new in Android Nougat?	What's new in Android Nougat?
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Phone feels warm or hot	Phone feels warm or hot
+Can't make/receive calls	Can't make/receive calls
+Problems during calls	Problems during calls
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Camera problems	Camera problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Contact Motorola Support	Contact Motorola Support
+Insert and remove SIM and SD cards	Insert and remove SIM and SD cards
+Charge phone	Charge phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Set up emergency information	Set up emergency information
+Use multiple languages	Use multiple languages
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Turn on captions	Turn on captions
+Use hearing aids	Use hearing aids
+Hardware diagram	Hardware diagram
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Terms you need to know	Terms you need to know
+Learn gestures	Learn gestures
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use flashlight	Use flashlight
+Use onscreen keyboard	Use onscreen keyboard
+Adjust keyboard vibrations	Adjust keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Share your phone	Share your phone
+Add, modify, remove users	Add, modify, remove users
+Add or delete guest	Add or delete guest
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Use the Time and Weather widget	Use the Time and Weather widget
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Choose color mode	Choose color mode
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Change font and display size	Change font and display size
+Use a screen saver	Use a screen saver
+Change screen lock	Change screen lock
+Change wallpaper	Change wallpaper
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Reach for your phone to see notifications	Reach for your phone to see notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+Transform with Moto Mods™	Transform with Moto Mods™
+Headphones and speakers	Headphones and speakers
+About your apps	About your apps
+Use two apps at once	Use two apps at once
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Scan codes and business cards	Scan codes and business cards
+Browse websites	Browse websites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save attachments	Save attachments
+Turn off group messaging	Turn off group messaging
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View email attachments	View email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+About the Moto app	About the Moto app
+Use voice commands and search	Use voice commands and search
+Stop phone from speaking	Stop phone from speaking
+Shrink screen for one-handed use	Shrink screen for one-handed use
+Use phone hands-free	Use phone hands-free
+Change Moto Voice privacy permissions	Change Moto Voice privacy permissions
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+During a call	During a call
+Make video calls	Make video calls
+Block calls and SMS	Block calls and SMS
+Turn on call waiting	Turn on call waiting
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls and SMS	Block calls and SMS
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Twist phone to open camera	Twist phone to open camera
+Take photos	Take photos
+Take screenshots	Take screenshots
+Adjust camera settings	Adjust camera settings
+Record videos	Record videos
+Find photos and videos	Find photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+Upload photos and videos	Upload photos and videos
+Delete or edit photos and videos	Delete or edit photos and videos
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Set network preference to save battery	Set network preference to save battery
+Analyze battery use	Analyze battery use
+About security	About security
+Use fingerprint security	Use fingerprint security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Unlock with "OK, Google"	Unlock with "OK, Google"
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+Prevent viruses	Prevent viruses
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Project your screen to TV	Project your screen to TV
+Share or receive with NFC	Share or receive with NFC
+Tap & pay with your phone	Tap & pay with your phone
+Use location services and GPS	Use location services and GPS
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+What's new in Android Nougat?	What's new in Android Nougat?
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Phone feels warm or hot	Phone feels warm or hot
+Can't make/receive calls	Can't make/receive calls
+Problems during calls	Problems during calls
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Camera problems	Camera problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Contact Motorola Support	Contact Motorola Support
+Insert and remove SIM and SD cards	Insert and remove SIM and SD cards
+Charge phone	Charge phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Use multiple languages	Use multiple languages
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Turn on captions	Turn on captions
+Use hearing aids	Use hearing aids
+Hardware diagram	Hardware diagram
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Glossary of terms	Glossary of terms
+Learn gestures	Learn gestures
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use flashlight	Use flashlight
+Use onscreen keyboard	Use onscreen keyboard
+Adjust keyboard vibrations	Adjust keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Use the Command Center widget	Use the Command Center widget
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Choose color mode	Choose color mode
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Change font and display size	Change font and display size
+Use a screen saver	Use a screen saver
+Change screen lock	Change screen lock
+Change wallpaper	Change wallpaper
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Reach for your phone to see notifications	Reach for your phone to see notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+Transform with Moto Mods™	Transform with Moto Mods™
+Headphones and speakers	Headphones and speakers
+About your apps	About your apps
+Use two apps at once	Use two apps at once
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Scan codes and business cards	Scan codes and business cards
+Browse websites	Browse websites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save attachments	Save attachments
+Turn off group messaging	Turn off group messaging
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View email attachments	View email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Set up quick responses	Set up quick responses
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+About the Moto app	About the Moto app
+Use voice commands and search	Use voice commands and search
+Stop phone from speaking	Stop phone from speaking
+Shrink screen for one-handed use	Shrink screen for one-handed use
+Use phone hands-free	Use phone hands-free
+Change Moto Voice privacy permissions	Change Moto Voice privacy permissions
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+During a call	During a call
+Make video calls	Make video calls
+Make calls over Wi-Fi	Make calls over Wi-Fi
+Block calls and SMS	Block calls and SMS
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls and SMS	Block calls and SMS
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Twist phone to open camera	Twist phone to open camera
+Take photos	Take photos
+Take screenshots	Take screenshots
+Adjust camera settings	Adjust camera settings
+Record videos	Record videos
+Find photos and videos	Find photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+Upload photos and videos	Upload photos and videos
+Delete or edit photos and videos	Delete or edit photos and videos
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Analyze battery use	Analyze battery use
+About security	About security
+Use fingerprint security	Use fingerprint security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Unlock with "OK, Google"	Unlock with "OK, Google"
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+Prevent viruses	Prevent viruses
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Project your screen to TV	Project your screen to TV
+Share or receive with NFC	Share or receive with NFC
+Tap & pay with your phone	Tap & pay with your phone
+Use location services and GPS	Use location services and GPS
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+What's new in Android Nougat?	What's new in Android Nougat?
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Phone feels warm or hot	Phone feels warm or hot
+Can't make/receive calls	Can't make/receive calls
+Problems during calls	Problems during calls
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Camera problems	Camera problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Contact Motorola Support	Contact Motorola Support
+Insert and remove SIM and SD cards	Insert and remove SIM and SD cards
+Manage dual SIMs	Manage dual SIMs
+Charge phone	Charge phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Set up emergency information	Set up emergency information
+Use multiple languages	Use multiple languages
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Turn on captions	Turn on captions
+Use hearing aids	Use hearing aids
+Hardware diagram	Hardware diagram
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Terms you need to know	Terms you need to know
+Learn gestures	Learn gestures
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use flashlight	Use flashlight
+Use onscreen keyboard	Use onscreen keyboard
+Adjust keyboard vibrations	Adjust keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Share your phone	Share your phone
+Add, modify, remove users	Add, modify, remove users
+Add or delete guest	Add or delete guest
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Use the Time and Weather widget	Use the Time and Weather widget
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Choose color mode	Choose color mode
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Change font and display size	Change font and display size
+Use a screen saver	Use a screen saver
+Change screen lock	Change screen lock
+Change wallpaper	Change wallpaper
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Reach for your phone to see notifications	Reach for your phone to see notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+Transform with Moto Mods™	Transform with Moto Mods™
+Headphones and speakers	Headphones and speakers
+About your apps	About your apps
+Use two apps at once	Use two apps at once
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Scan codes and business cards	Scan codes and business cards
+Browse websites	Browse websites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save attachments	Save attachments
+Turn off group messaging	Turn off group messaging
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View email attachments	View email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+About the Moto app	About the Moto app
+Use voice commands and search	Use voice commands and search
+Stop phone from speaking	Stop phone from speaking
+Shrink screen for one-handed use	Shrink screen for one-handed use
+Use phone hands-free	Use phone hands-free
+Change Moto Voice privacy permissions	Change Moto Voice privacy permissions
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+During a call	During a call
+Make video calls	Make video calls
+Block calls and SMS	Block calls and SMS
+Turn on call waiting	Turn on call waiting
+Manage dual SIMs	Manage dual SIMs
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls and SMS	Block calls and SMS
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Twist phone to open camera	Twist phone to open camera
+Take photos	Take photos
+Take screenshots	Take screenshots
+Adjust camera settings	Adjust camera settings
+Record videos	Record videos
+Find photos and videos	Find photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+Upload photos and videos	Upload photos and videos
+Delete or edit photos and videos	Delete or edit photos and videos
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Set network preference to save battery	Set network preference to save battery
+Analyze battery use	Analyze battery use
+About security	About security
+Use fingerprint security	Use fingerprint security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Unlock with "OK, Google"	Unlock with "OK, Google"
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+Prevent viruses	Prevent viruses
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Project your screen to TV	Project your screen to TV
+Share or receive with NFC	Share or receive with NFC
+Tap & pay with your phone	Tap & pay with your phone
+Use location services and GPS	Use location services and GPS
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+What's new in Android Nougat?	What's new in Android Nougat?
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Phone feels warm or hot	Phone feels warm or hot
+Can't make/receive calls	Can't make/receive calls
+Problems during calls	Problems during calls
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Camera problems	Camera problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Contact Motorola Support	Contact Motorola Support
+Insert and remove SIM and SD cards	Insert and remove SIM and SD cards
+Charge phone	Charge phone
+Transfer stuff from your old phone	Transfer stuff from your old phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Turn on captions	Turn on captions
+Use hearing aids	Use hearing aids
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Glossary of terms	Glossary of terms
+Learn gestures	Learn gestures
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use flashlight	Use flashlight
+Use onscreen keyboard	Use onscreen keyboard
+Adjust keyboard vibrations	Adjust keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Use the Command Center widget	Use the Command Center widget
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Use a screen saver	Use a screen saver
+Change screen lock	Change screen lock
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+Remove and replace shell	Remove and replace shell
+About your apps	About your apps
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Scan QR codes and barcodes	Scan QR codes and barcodes
+Browse websites	Browse websites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save photos or video from messages	Save photos or video from messages
+Limit messages in conversation	Limit messages in conversation
+Turn off group messaging	Turn off group messaging
+Add messaging signature	Add messaging signature
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View email attachments	View email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Set up quick responses	Set up quick responses
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+Go hands-free and automated with Moto	Go hands-free and automated with Moto
+Use voice commands and search	Use voice commands and search
+Stop phone from speaking	Stop phone from speaking
+Use phone hands-free	Use phone hands-free
+Control Moto Voice notifications	Control Moto Voice notifications
+Change privacy permissions	Change privacy permissions
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+During a call	During a call
+Block calls or contacts	Block calls or contacts
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls or contacts	Block calls or contacts
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Twist phone to open camera	Twist phone to open camera
+Take photos	Take photos
+Take screenshots	Take screenshots
+Adjust camera settings	Adjust camera settings
+Record videos	Record videos
+Find photos and videos	Find photos and videos
+Organize photos and videos	Organize photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+View in filmstrip mode	View in filmstrip mode
+Upload photos and videos	Upload photos and videos
+Always get the best shot	Always get the best shot
+Create highlight reels	Create highlight reels
+Delete or edit photos and videos	Delete or edit photos and videos
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Show battery percentage in status bar	Show battery percentage in status bar
+Analyze battery use	Analyze battery use
+About security	About security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Unlock with "OK, Google"	Unlock with "OK, Google"
+Encrypt your phone	Encrypt your phone
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+Prevent viruses	Prevent viruses
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Project your screen to TV	Project your screen to TV
+Share or receive with NFC	Share or receive with NFC
+Use location services and GPS	Use location services and GPS
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+What's new in Android Marshmallow?	What's new in Android Marshmallow?
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Phone feels warm or hot	Phone feels warm or hot
+Can't make/receive calls	Can't make/receive calls
+Problems during calls	Problems during calls
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Camera problems	Camera problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Contact Motorola Support	Contact Motorola Support
+How-to videos	How-to videos
+Insert and remove SIM and SD cards	Insert and remove SIM and SD cards
+Charge phone	Charge phone
+Transfer stuff from your old phone	Transfer stuff from your old phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Change font size in apps	Change font size in apps
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Glossary of terms	Glossary of terms
+Learn gestures	Learn gestures
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use onscreen keyboard	Use onscreen keyboard
+Turn off keyboard vibrations	Turn off keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Stay in control with Command Center widget	Stay in control with Command Center widget
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Set up Daydream	Set up Daydream
+Change screen lock	Change screen lock
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Reach for your phone to see notifications	Reach for your phone to see notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+About your apps	About your apps
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Prevent malware attacks	Prevent malware attacks
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Scan codes to copy or search for information	Scan codes to copy or search for information
+Browse web sites	Browse web sites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save photos or video from messages	Save photos or video from messages
+Limit messages in conversation	Limit messages in conversation
+Add messaging signature	Add messaging signature
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View and manage email attachments	View and manage email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+Go hands-free and automated with Moto	Go hands-free and automated with Moto
+Use voice commands and search	Use voice commands and search
+Stop phone from speaking	Stop phone from speaking
+Use phone hands-free	Use phone hands-free
+Control Moto Voice notifications	Control Moto Voice notifications
+Change privacy permissions	Change privacy permissions
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+During a call	During a call
+Block calls or contacts	Block calls or contacts
+Turn on call waiting	Turn on call waiting
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls or contacts	Block calls or contacts
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Twist phone to open camera	Twist phone to open camera
+Take and share photos	Take and share photos
+Take and share screenshots	Take and share screenshots
+Record and share videos	Record and share videos
+Use camera timer	Use camera timer
+Take panoramic photos	Take panoramic photos
+Adjust photo size	Adjust photo size
+Take better pictures at night	Take better pictures at night
+Use HDR in high-contrast lighting	Use HDR in high-contrast lighting
+Use location tags	Use location tags
+Find photos and videos	Find photos and videos
+Organize photos and videos	Organize photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+View in filmstrip mode	View in filmstrip mode
+Upload photos and videos	Upload photos and videos
+Delete photos or videos	Delete photos or videos
+Edit photos	Edit photos
+Edit videos	Edit videos
+Create highlight reels	Create highlight reels
+Use photo as wallpaper or contact photo	Use photo as wallpaper or contact photo
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Set network preference to save battery	Set network preference to save battery
+Show battery percentage in status bar	Show battery percentage in status bar
+Analyze battery use	Analyze battery use
+About security	About security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Unlock with "OK, Google"	Unlock with "OK, Google"
+Encrypt your phone	Encrypt your phone
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Store photos and videos on SD card	Store photos and videos on SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Cast your screen to HDTV with Chromecast	Cast your screen to HDTV with Chromecast
+Share or receive with NFC	Share or receive with NFC
+Tap & pay with your phone	Tap & pay with your phone
+Use location services and GPS	Use location services and GPS
+Use location tags	Use location tags
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+What's new in Android Marshmallow?	What's new in Android Marshmallow?
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Calling problems	Calling problems
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Get user guide	Get user guide
+Contact Motorola Support	Contact Motorola Support
+Insert and remove SIM and SD cards	Insert and remove SIM and SD cards
+Manage dual SIMs	Manage dual SIMs
+Charge phone	Charge phone
+Add or remove accounts	Add or remove accounts
+Set up voicemail	Set up voicemail
+Set up email	Set up email
+Set up lost phone features	Set up lost phone features
+Set up emergency information	Set up emergency information
+Use multiple languages	Use multiple languages
+Make it yours	Make it yours
+If you have visual impairments	If you have visual impairments
+Turn on captions	Turn on captions
+Use hearing aids	Use hearing aids
+Hardware diagram	Hardware diagram
+About your home screen	About your home screen
+About your lock screen	About your lock screen
+About your apps	About your apps
+If this is your first smartphone	If this is your first smartphone
+If you had an iPhone	If you had an iPhone
+About your Google account	About your Google account
+What are those icons at the top of the screen?	What are those icons at the top of the screen?
+Terms you need to know	Terms you need to know
+Learn gestures	Learn gestures
+Use fingerprint sensor to navigate	Use fingerprint sensor to navigate
+View notifications	View notifications
+Find phone settings	Find phone settings
+Put your screen to sleep to save power	Put your screen to sleep to save power
+Switch between apps	Switch between apps
+Adjust volume	Adjust volume
+Use flashlight	Use flashlight
+Use onscreen keyboard	Use onscreen keyboard
+Adjust keyboard vibrations	Adjust keyboard vibrations
+Cut, copy, paste text	Cut, copy, paste text
+Use voice typing	Use voice typing
+Share your phone	Share your phone
+Add, modify, remove users	Add, modify, remove users
+Add or delete guest	Add or delete guest
+Change wallpaper	Change wallpaper
+Customize your Favorites tray	Customize your Favorites tray
+Add widgets, shortcuts, or folders	Add widgets, shortcuts, or folders
+Remove widgets, shortcuts, or folders	Remove widgets, shortcuts, or folders
+Use the Time and Weather widget	Use the Time and Weather widget
+Remake your home screen with launchers	Remake your home screen with launchers
+Disable auto rotate	Disable auto rotate
+Choose color mode	Choose color mode
+Optimize screen brightness for available light	Optimize screen brightness for available light
+Change font and display size	Change font and display size
+Use a screen saver	Use a screen saver
+Change screen lock	Change screen lock
+Change wallpaper	Change wallpaper
+Manage lock screen notifications	Manage lock screen notifications
+Add message to lock screen	Add message to lock screen
+Change screen timeout	Change screen timeout
+Adjust volume	Adjust volume
+Set ringtones	Set ringtones
+Use song as ringtone	Use song as ringtone
+Use recording as ringtone	Use recording as ringtone
+Stop phone from speaking	Stop phone from speaking
+Turn off charging sounds	Turn off charging sounds
+Avoid interruptions with Do not disturb	Avoid interruptions with Do not disturb
+Manage notifications	Manage notifications
+Turn emergency alerts off/on	Turn emergency alerts off/on
+About your apps	About your apps
+Use two apps at once	Use two apps at once
+Install or update apps	Install or update apps
+Manage or delete apps	Manage or delete apps
+Pin your screen	Pin your screen
+Search phone and web	Search phone and web
+Use voice commands and search	Use voice commands and search
+Scan QR codes and barcodes	Scan QR codes and barcodes
+Browse websites	Browse websites
+Manage your personal information	Manage your personal information
+About text and multimedia messages	About text and multimedia messages
+Read, send, manage text messages	Read, send, manage text messages
+Add attachments	Add attachments
+Save attachments	Save attachments
+Turn off group messaging	Turn off group messaging
+Change default messaging app	Change default messaging app
+Control notifications for text messages	Control notifications for text messages
+Change text message reply to incoming calls	Change text message reply to incoming calls
+Set up email	Set up email
+Read, send, manage emails	Read, send, manage emails
+View email attachments	View email attachments
+Preview inboxes from home screen	Preview inboxes from home screen
+Add email signature	Add email signature
+Control email notifications	Control email notifications
+About the calendar	About the calendar
+Find calendar events	Find calendar events
+Create and manage events	Create and manage events
+Control notifications for calendar events	Control notifications for calendar events
+Set alarms	Set alarms
+Use timer or stopwatch	Use timer or stopwatch
+Set date and time	Set date and time
+About the Moto app	About the Moto app
+Use fingerprint sensor to navigate	Use fingerprint sensor to navigate
+Use flashlight	Use flashlight
+Shrink screen for one-handed use	Shrink screen for one-handed use
+Preview notifications when screen sleeps	Preview notifications when screen sleeps
+Answer calls	Answer calls
+Make calls	Make calls
+During a call	During a call
+Make video calls	Make video calls
+Make calls over Wi-Fi	Make calls over Wi-Fi
+Block calls and SMS	Block calls and SMS
+Turn on call waiting	Turn on call waiting
+Manage dual SIMs	Manage dual SIMs
+Save recent call as contact	Save recent call as contact
+Clear call history	Clear call history
+Make conference calls	Make conference calls
+Add contacts	Add contacts
+Edit or delete contacts	Edit or delete contacts
+Star your favorite contacts	Star your favorite contacts
+Block calls and SMS	Block calls and SMS
+Sort contacts	Sort contacts
+Share contacts	Share contacts
+Set up voicemail	Set up voicemail
+Use voicemail	Use voicemail
+Send all calls from contact to voicemail	Send all calls from contact to voicemail
+Twist phone to open camera	Twist phone to open camera
+Take photos	Take photos
+Take screenshots	Take screenshots
+Adjust camera settings	Adjust camera settings
+Record videos	Record videos
+Find photos and videos	Find photos and videos
+Share photos and videos	Share photos and videos
+About wireless sharing	About wireless sharing
+Upload photos and videos	Upload photos and videos
+Always get the best shot	Always get the best shot
+Delete or edit photos and videos	Delete or edit photos and videos
+Listen to radio	Listen to radio
+Listen to music	Listen to music
+Transfer music files	Transfer music files
+Use song as ringtone	Use song as ringtone
+Extend battery life	Extend battery life
+Use Battery Saver mode	Use Battery Saver mode
+Manage background battery optimizations	Manage background battery optimizations
+Set network preference to save battery	Set network preference to save battery
+Analyze battery use	Analyze battery use
+About security	About security
+Use fingerprint security	Use fingerprint security
+Change screen lock	Change screen lock
+Unlock with trusted devices	Unlock with trusted devices
+Unlock with trusted face	Unlock with trusted face
+Unlock at trusted places	Unlock at trusted places
+Keep phone unlocked while it's on you	Keep phone unlocked while it's on you
+Unlock with "OK, Google"	Unlock with "OK, Google"
+Connect to VPNs	Connect to VPNs
+Set up lost phone features	Set up lost phone features
+Lock SIM card	Lock SIM card
+Prevent viruses	Prevent viruses
+About storage options	About storage options
+Manage phone storage	Manage phone storage
+Manage SD card	Manage SD card
+Find downloaded files	Find downloaded files
+Recover recently deleted files	Recover recently deleted files
+Upload music to the cloud	Upload music to the cloud
+Upload photos and videos	Upload photos and videos
+Connect with Wi‑Fi	Connect with Wi‑Fi
+Connect with Bluetooth	Connect with Bluetooth
+Use Airplane mode	Use Airplane mode
+Control data usage	Control data usage
+Sync accounts and apps	Sync accounts and apps
+Share your internet connection	Share your internet connection
+Connect to VPNs	Connect to VPNs
+Project your screen to TV	Project your screen to TV
+Share or receive with NFC	Share or receive with NFC
+Tap & pay with your phone	Tap & pay with your phone
+Use location services and GPS	Use location services and GPS
+Get turn-by-turn directions	Get turn-by-turn directions
+Transfer files between phone and computer (USB)	Transfer files between phone and computer (USB)
+Print from your phone	Print from your phone
+Scan documents and make copies	Scan documents and make copies
+Update Android software	Update Android software
+Reboot or reset phone	Reboot or reset phone
+Phone is slow or unstable	Phone is slow or unstable
+Phone feels warm or hot	Phone feels warm or hot
+Can't make/receive calls	Can't make/receive calls
+Problems during calls	Problems during calls
+Messaging problems	Messaging problems
+Charging problems	Charging problems
+Camera problems	Camera problems
+Apps and widgets missing or not working	Apps and widgets missing or not working
+Reset Wi-Fi, cellular data, and Bluetooth	Reset Wi-Fi, cellular data, and Bluetooth
+Clear cache partition	Clear cache partition
+Reboot or reset phone	Reboot or reset phone
+Contact Motorola Support	Contact Motorola Support
