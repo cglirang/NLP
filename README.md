@@ -1,4 +1,4 @@
-# NLP
+# NLP [![Build Status](https://travis-ci.org/cglirang/NLP.svg?branch=master)](https://travis-ci.org/cglirang/NLP)
 Natural Language Processing test project
 
 ---
