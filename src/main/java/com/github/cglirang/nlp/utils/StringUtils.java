@@ -1,7 +1,8 @@
 
 package com.github.cglirang.nlp.utils;
 
-import java.util.Set;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -72,11 +73,112 @@ public class StringUtils {
 		if (notepos2 < 0) notepos2 = li.length();
 		int notepos = Math.min(notepos1, notepos2);
 		if (notepos == 0) return "";
-		if (notepos < li.length()) ;
 		return li.substring(0, notepos);
 	}
 
+	/** whether the string is number
+	 * 
+	 * @param str
+	 * @return */
 	public static boolean isNumber (final String str) {
 		return str.matches("[0-9.]");
+	}
+
+	/** whether two strings are equal
+	 * 
+	 * @param comparedString1
+	 * @param comparedString2
+	 * @return */
+	public static boolean phraseEquals (String comparedString1, String comparedString2) {
+		//
+		String slimString1 = "";
+		String slimString2 = "";
+
+		//
+		String stringBuf1 = comparedString1.trim().toLowerCase();
+		String stringBuf2 = comparedString2.trim().toLowerCase();
+
+		//
+		if (stringBuf1.contains("	") || stringBuf1.contains(" ")) {
+			//
+			String[] wordList1 = stringBuf1.split("\\s+");
+			//
+			for (String word : wordList1) {
+				slimString1 = slimString1 + word.trim();
+			}
+		} else {
+			slimString1 = stringBuf1;
+		}
+
+		//
+		if (stringBuf2.contains("	") || stringBuf2.contains(" ")) {
+			//
+			String[] wordList2 = stringBuf2.split("\\s+");
+			//
+			for (String word : wordList2) {
+				slimString2 = slimString2 + word.trim();
+			}
+		} else {
+			slimString2 = stringBuf2;
+		}
+
+		//
+		if (slimString1.contentEquals(slimString2)) {
+			//
+			return true;
+		} else {
+			//
+			return false;
+		}
+	}
+
+	/** whether the words is in English
+	 *
+	 * @param words
+	 * @return */
+	public static boolean isEnglish (String words) {
+		boolean sign = true;
+
+		Pattern p = Pattern.compile("\\s*|\t*|\r*|\n*");
+		Matcher m = p.matcher(words);
+		String after = m.replaceAll("");
+		String temp = after.replaceAll("\\p{P}", "");
+
+		for (int i = 0; i < temp.length(); i++) {
+			if (!(temp.charAt(i) >= 'A' && temp.charAt(i) <= 'Z') && !(temp.charAt(i) >= 'a' && temp.charAt(i) <= 'z')) {
+				sign = false;
+			}
+		}
+		return sign;
+	}
+
+	/** extract message from brackets or remove it
+	 *
+	 * @param msg
+	 * @return */
+	public static String extractMessageOrRemove (String msg, char left, char right, boolean remove) {
+
+		StringBuffer stringBuffer = new StringBuffer();
+		int start = 0;
+		int startFlag = 0;
+		int endFlag = 0;
+		for (int i = 0; i < msg.length(); i++) {
+			if (msg.charAt(i) == left) {
+				startFlag++;
+				if (startFlag == endFlag + 1) {
+					start = i;
+				}
+			} else if (msg.charAt(i) == right) {
+				endFlag++;
+				if (endFlag == startFlag) {
+					if (!remove) {
+						stringBuffer.append(msg.substring(start + 1, i));
+					} else {
+						stringBuffer.append(msg.substring(0, start)).append(msg.substring(i, msg.length() - 1));
+					}
+				}
+			}
+		}
+		return stringBuffer.toString();
 	}
 }
