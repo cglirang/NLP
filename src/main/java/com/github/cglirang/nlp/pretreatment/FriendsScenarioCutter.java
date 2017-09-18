@@ -5,15 +5,14 @@ import com.github.cglirang.nlp.pretreatment.bean.Lines;
 import com.github.cglirang.nlp.utils.StringUtils;
 import com.github.cglirang.nlp.utils.TextReader;
 
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
 /** Created by lirang2 on 2017/9/14. */
 public class FriendsScenarioCutter {
 	public static final String SCENARIO_INPUT_PATH = "pretreatment/Friends_Scenario.txt";
-	public static final String CORPUS_OUPUT_PATH = "";
+	public static final String CORPUS_OUPUT_PATH = "D:\\";
 
 	private static final String END_LINES = "THE END";
 
@@ -30,12 +29,13 @@ public class FriendsScenarioCutter {
 		List<Lines> linesList = new ArrayList<Lines>();
 
 		TextReader textReader = null;
-		FileWriter fw = null;
+		BufferedWriter fw = null;
 		try {
 			// read text
 			textReader = new TextReader(inputPath);
 			// write file
-			fw = new FileWriter(outputPath, true);
+			fw = new BufferedWriter(
+				new OutputStreamWriter(new FileOutputStream(outputPath + "output_window_" + windowSize, true), "UTF-8"));
 
 			// cut begin
 			String str = null;
@@ -213,7 +213,7 @@ public class FriendsScenarioCutter {
 	 *
 	 * @param fw
 	 * @param corpus */
-	private void writeFile (FileWriter fw, List<String> corpus) throws IOException {
+	private void writeFile (BufferedWriter fw, List<String> corpus) throws IOException {
 		for (String str : corpus) {
 			fw.write(str + "\n\n");
 		}
