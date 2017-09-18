@@ -30,6 +30,9 @@ public class FriendsScenarioCutter {
 
 		TextReader textReader = null;
 		BufferedWriter fw = null;
+
+		String str = null;
+
 		try {
 			// read text
 			textReader = new TextReader(inputPath);
@@ -38,7 +41,6 @@ public class FriendsScenarioCutter {
 				new OutputStreamWriter(new FileOutputStream(outputPath + "output_window_" + windowSize, true), "UTF-8"));
 
 			// cut begin
-			String str = null;
 			while ((str = textReader.readLine()) != null) {
 				// "the end"
 				if (this.isEnd(str)) {
@@ -46,7 +48,8 @@ public class FriendsScenarioCutter {
 				}
 				// a new scene
 				if (this.isNewScene(str)) {
-					if (0 != characters.size() && 0 != linesList.size()) {
+					// remove scenes when character number less than 2
+					if (2 < characters.size() && 0 != linesList.size()) {
 						// generate tmp list
 						List<Lines> tmpLinesList = this.generateTmpList(characters, linesList);
 						// slide window
@@ -73,7 +76,7 @@ public class FriendsScenarioCutter {
 						characters.add(strings[0]);
 					}
 					lines.setWholeSentence(str);
-					lines.setCharacter(strings[0]);
+					lines.setCharacter(strings[0].trim().toLowerCase());
 					lines.setLines(strings[1]);
 					linesList.add(lines);
 				}
@@ -82,6 +85,7 @@ public class FriendsScenarioCutter {
 
 		} catch (Exception e) {
 			e.printStackTrace();
+			System.out.println(textReader != null ? textReader.getLineNumber() : 0 + "\t" + str);
 		} finally {
 			if (textReader != null) {
 				try {
@@ -161,6 +165,7 @@ public class FriendsScenarioCutter {
 
 		// generate temporary lines list
 		for (Lines lines : linesList) {
+			// next speaker
 			while (!StringUtils.phraseEquals(lines.getCharacter(), tmpCharacter)) {
 				Lines tmpLines = new Lines();
 
@@ -223,6 +228,7 @@ public class FriendsScenarioCutter {
 
 	public static void main (String[] args) {
 		FriendsScenarioCutter friendsScenarioCutter = new FriendsScenarioCutter();
+		friendsScenarioCutter.cutScenario(SCENARIO_INPUT_PATH, CORPUS_OUPUT_PATH, 3);
 
 	}
 
