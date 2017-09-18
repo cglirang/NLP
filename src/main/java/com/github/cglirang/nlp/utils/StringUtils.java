@@ -158,7 +158,6 @@ public class StringUtils {
 	 * @return */
 	public static String extractMessageOrRemove (String msg, char left, char right, boolean remove) {
 
-		StringBuffer stringBuffer = new StringBuffer();
 		int start = 0;
 		int startFlag = 0;
 		int endFlag = 0;
@@ -171,14 +170,19 @@ public class StringUtils {
 			} else if (msg.charAt(i) == right) {
 				endFlag++;
 				if (endFlag == startFlag) {
+					StringBuffer stringBuffer = new StringBuffer();
 					if (!remove) {
-						stringBuffer.append(msg.substring(start + 1, i));
+						msg = msg.substring(start + 1, i);
+						break;
 					} else {
-						stringBuffer.append(msg.substring(0, start)).append(msg.substring(i, msg.length() - 1));
+						stringBuffer.append(msg.substring(0, start)).append(msg.substring(i + 1, msg.length()));
+
+						msg = stringBuffer.toString();
+						i = start;
 					}
 				}
 			}
 		}
-		return stringBuffer.toString();
+		return msg;
 	}
 }
