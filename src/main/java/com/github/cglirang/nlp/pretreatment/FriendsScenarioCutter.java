@@ -213,8 +213,8 @@ public class FriendsScenarioCutter {
 				for (Lines lines : bufferdList) {
 					if (bufferdList.indexOf(lines) == bufferdList.size() - 1 || !StringUtils.phraseEquals("<idt>", lines.getLines())) {
 						talk += 1;
-						stringBuffer.append(lines.getWholeSentence()).append("\n");
 					}
+					stringBuffer.append(lines.getWholeSentence()).append("\n");
 				}
 
 				if (talk > 2) {
