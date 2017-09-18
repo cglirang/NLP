@@ -1,6 +1,7 @@
 
 package com.github.cglirang.nlp.pretreatment;
 
+import com.github.cglirang.nlp.Settings;
 import com.github.cglirang.nlp.pretreatment.bean.Lines;
 import com.github.cglirang.nlp.utils.StringUtils;
 import com.github.cglirang.nlp.utils.TextReader;
@@ -12,7 +13,7 @@ import java.util.List;
 /** Created by lirang2 on 2017/9/14. */
 public class FriendsScenarioCutter {
 	public static final String SCENARIO_INPUT_PATH = "pretreatment/Friends_Scenario.txt";
-	public static final String CORPUS_OUPUT_PATH = "D:\\";
+	public static final String CORPUS_OUPUT_PATH = "C:\\Users\\cglir\\Desktop\\";
 
 	private static final String END_LINES = "THE END";
 
@@ -38,7 +39,7 @@ public class FriendsScenarioCutter {
 			textReader = new TextReader(inputPath);
 			// write file
 			fw = new BufferedWriter(
-				new OutputStreamWriter(new FileOutputStream(outputPath + "output_window_" + windowSize, true), "UTF-8"));
+				new OutputStreamWriter(new FileOutputStream(outputPath + "output_window_" + windowSize + ".txt", true), "UTF-8"));
 
 			// cut begin
 			while ((str = textReader.readLine()) != null) {
@@ -68,7 +69,7 @@ public class FriendsScenarioCutter {
 				str = this.removeBrackets(str);
 
 				// save lines
-				if (!StringUtils.nullOrEmpty(str)) {
+				if (!StringUtils.nullOrEmpty(str) && str.contains(":")) {
 					Lines lines = new Lines();
 					String[] strings = str.split(":");
 
@@ -81,11 +82,13 @@ public class FriendsScenarioCutter {
 					linesList.add(lines);
 				}
 			}
-			System.out.println("This scenario has " + sceneNum + " scenes, cut into " + qaPair + "QA pairs.");
+			System.out.println("This scenario has " + sceneNum + " scenes, cut into " + qaPair + " QA pairs.");
 
 		} catch (Exception e) {
 			e.printStackTrace();
-			System.out.println(textReader != null ? textReader.getLineNumber() : 0 + "\t" + str);
+			System.out.print("error line: ");
+			System.out.print(textReader != null ? textReader.getLineNumber() : 0);
+			System.out.print("\t" + str);
 		} finally {
 			if (textReader != null) {
 				try {
@@ -171,7 +174,7 @@ public class FriendsScenarioCutter {
 
 				tmpLines.setCharacter(tmpCharacter);
 				tmpLines.setLines("<idt>");
-				tmpLines.setLines(tmpCharacter + ":<idt>");
+				tmpLines.setWholeSentence(tmpCharacter + ":<idt>");
 
 				tmpList.add(tmpLines);
 
@@ -179,6 +182,8 @@ public class FriendsScenarioCutter {
 				tmpCharacter = characters.get(count % characters.size());
 			}
 			tmpList.add(lines);
+			count += 1;
+			tmpCharacter = characters.get(count % characters.size());
 		}
 
 		return tmpList;
@@ -196,17 +201,33 @@ public class FriendsScenarioCutter {
 		int x = 0;
 		int y = 0;
 
-		StringBuffer stringBuffer = new StringBuffer();
+		List<Lines> bufferdList = new ArrayList<Lines>();
 
 		// slide window
 		while (y < tmpList.size() + windowSize - 2) {
-			if (y - x < windowSize) {
-				corpus.add(stringBuffer.toString());
+			if (y - x == windowSize) {
+				StringBuffer stringBuffer = new StringBuffer();
+
+				// idt
+				int talk = 0;
+				for (Lines lines : bufferdList) {
+					if (bufferdList.indexOf(lines) == bufferdList.size() - 1 || !StringUtils.phraseEquals("<idt>", lines.getLines())) {
+						talk += 1;
+						stringBuffer.append(lines.getWholeSentence()).append("\n");
+					}
+				}
+
+				if (talk > 2) {
+					corpus.add(stringBuffer.toString());
+				}
+				bufferdList.clear();
 
 				x += 1;
 				y = x;
 			}
-			stringBuffer.append(tmpList.get(y).getWholeSentence()).append("\n");
+			if (y < tmpList.size()) {
+				bufferdList.add(tmpList.get(y));
+			}
 
 			y += 1;
 		}
@@ -220,7 +241,7 @@ public class FriendsScenarioCutter {
 	 * @param corpus */
 	private void writeFile (BufferedWriter fw, List<String> corpus) throws IOException {
 		for (String str : corpus) {
-			fw.write(str + "\n\n");
+			fw.write(str + "\n");
 		}
 		fw.write("\n");
 		fw.flush();
@@ -228,7 +249,7 @@ public class FriendsScenarioCutter {
 
 	public static void main (String[] args) {
 		FriendsScenarioCutter friendsScenarioCutter = new FriendsScenarioCutter();
-		friendsScenarioCutter.cutScenario(SCENARIO_INPUT_PATH, CORPUS_OUPUT_PATH, 3);
+		friendsScenarioCutter.cutScenario(Settings.CONFIG_PATH + SCENARIO_INPUT_PATH, CORPUS_OUPUT_PATH, 7);
 
 	}
 
